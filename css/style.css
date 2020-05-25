@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+/*-------------------------
+	初期値
+-------------------------*/
+
+body {
+	padding-top: 75px;
+}
+
+.btn-primary {
+	background-color: #8e44ad;
+	border: 1px solid #8e44ad;
+}
+
+footer a {
+	color: #8e44ad;
+}
+
+/*-------------------------
+	トップ
+-------------------------*/
+
+.topics p {
+	text-align: justify;
+}
